@@ -6,5 +6,5 @@ then it prints a message to the screen, telling the user the total amount owed f
 The amount owed does always display out to two decimals or the total number of cents in the price. 
 This would be a nice improvement to add.
 The user can exit the program by entering "0" for the id and qty amount or just by hitting "Return" twice on the prompts.
-![Image of the program in action](../bamazon.jpg)
+![Image of the program in action](./bamazon.jpg)
 
